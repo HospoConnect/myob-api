@@ -3,7 +3,7 @@ module Myob
     module Model
       class OrderItem < Base
         def model_route
-          'Sale/OrderItem/Item'
+          'Sale/Order/Item'
         end
       end
     end
