@@ -1,7 +1,7 @@
 module Myob
   module Api
     module Model
-      class InventoryItem < Base
+      class ItemPriceMatrix < Base
         def model_route
           'Inventory/ItemPriceMatrix'
         end
